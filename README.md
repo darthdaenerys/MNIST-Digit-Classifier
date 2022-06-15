@@ -12,4 +12,18 @@ It is a good database for people who want to try learning techniques and pattern
 
 There are four files available, which contain separately train and test, and images and labels.
 
+## Final Testing Results
+
+**Model test accuracy**: 98.27%
+
+**Model test loss**: 0.08293664455413818
+
+## Tools and APIs used
+
+Jupyter Notebook v6.4.8<br>
+Python v3.9.7<br>
+Tensorflow v2.9.1<br>
+Keras v2.9.0
+
+## Acknowledgements
 Thanks to Yann LeCun, Corinna Cortes, Christopher J.C. Burges.
